@@ -6,6 +6,7 @@ const winningMessageText=document.querySelector('.winning-message__text')
 const X_MARK='x'
 const CIRCLE_MARK='circle'
 console.log('hello');
+alert('Hello')
 const WINNING_COMBINATION=[
         [0,1,2],
         [0,3,6],
